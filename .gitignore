@@ -1,0 +1,13 @@
+*backups*
+*.stl
+*.step
+*.3mf
+fp-info-cache*
+*autosave*
+*.pdf
+*gerber*
+*autosave*
+*auto_save*
+*.zip
+*.kicad_prl
+*.kicad_sch.lck
