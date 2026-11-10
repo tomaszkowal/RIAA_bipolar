@@ -5647,7 +5647,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5996acd3-71dd-40c7-8e72-c7a23de0446d")
-		(property "Reference" "L3"
+		(property "Reference" "L102"
 			(at 111.76 44.45 90)
 			(effects
 				(font
@@ -5699,7 +5699,7 @@
 		(instances
 			(project "RIAA_bipolar"
 				(path "/88cc0953-8082-4e0e-bf6d-c894983e2263/9b480b3e-2a4b-4758-80e0-f9d904739038"
-					(reference "L3")
+					(reference "L102")
 					(unit 1)
 				)
 			)
